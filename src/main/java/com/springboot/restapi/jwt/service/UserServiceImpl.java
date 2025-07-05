@@ -1,6 +1,6 @@
 package com.springboot.restapi.jwt.service;
 
-import com.springboot.restapi.jwt.Model.User;
+import com.springboot.restapi.jwt.model.User;
 import org.springframework.stereotype.Component;
 
 

@@ -1,6 +1,6 @@
 package com.springboot.restapi.jwt.controller;
 
-import com.springboot.restapi.jwt.Model.User;
+import com.springboot.restapi.jwt.model.User;
 import com.springboot.restapi.jwt.service.UserServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
